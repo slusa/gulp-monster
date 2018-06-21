@@ -2,13 +2,13 @@
 Great gulp monster file with tools such as: sass, autoprefixer, livereload, webserver and other.
 Here is the whole default project structure. So just what you have to do, it's go step by step these below points.
 
-1. **npm init
+1. **npm init**
 
-2. **install all needed packages which are included in package.json or gulpfile.js file
+2. **install all needed packages which are included in package.json or gulpfile.js file**
 
-3. **add .jshintrc file near to the gulpfile.js because it's needed by gulp task in the /scripts directory
+3. **add .jshintrc file near to the gulpfile.js because it's needed by gulp task in the /scripts directory**
 
-4. **general files and directories view:
+4. **general files and directories view:**
 
 -project-name/
   - node_modules/
@@ -25,5 +25,5 @@ Here is the whole default project structure. So just what you have to do, it's g
   - package.json
   
   
-5. **gulp watch
+5. **gulp watch**
     
