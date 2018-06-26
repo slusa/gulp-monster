@@ -8,7 +8,7 @@ Here is the whole default project structure. So just what you have to do, it's g
 
 ### add .jshintrc file near to the gulpfile.js because it's needed by js gulp task ###
 
-## below there is general files and directories view: ##
+#### below there is general files and directories view: ####
 
 ```
   project-name/
@@ -26,6 +26,7 @@ Here is the whole default project structure. So just what you have to do, it's g
   package.json
   .gitignore
 ```  
+  
   
 ```gulp watch```
     
