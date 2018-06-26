@@ -6,11 +6,12 @@ Here is the whole default project structure. So just what you have to do, it's g
 
 2. **install all needed packages which are included in package.json or gulpfile.js file**
 
-3. **add .jshintrc file near to the gulpfile.js because it's needed by gulp task in the /scripts directory**
+3. **add .jshintrc file near to the gulpfile.js because it's needed by js gulp task**
 
 4. **general files and directories view:**
 
--project-name/
+```
+  - project-name/
   - node_modules/
   - src/
     - styles/
@@ -23,7 +24,7 @@ Here is the whole default project structure. So just what you have to do, it's g
   - gulpfile.js
   - .jshintrc
   - package.json
-  
+```  
   
 5. **gulp watch**
     
