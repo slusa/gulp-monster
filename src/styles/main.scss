@@ -3,7 +3,9 @@
 body, html {
   padding: 0;
   margin: 0;
-  background-image: url('../images-opt/landscape.jpg');
+  background: url('../images/landscape.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
   font-size: 18px;
   width: 100vw;
   height: 100vh;
@@ -17,7 +19,7 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 50px;
-  border: 7px dotted $accent-color-2;
+  border: 7px dotted $accent-color-1;
   padding: 20px;
 
   .working__info {

@@ -1,5 +1,4 @@
 node_modules/
-src/images/
-src/scripts/
-src/styles/
 .idea/
+src/opt/scripts/
+src/opt/styles/
