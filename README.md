@@ -5,13 +5,11 @@ Great gulp monster file with tools such as: sass, autoprefixer, minify, liverelo
 
 ` npm install `
 
-Also add ` .jshintrc ` file next to the ` gulpfile.js ` because this file is needed to correctly run all gulp tasks.
-
-# Run project
+## Run project
   
 ` gulp watch `
 
-# Below there is general files and directories view: 
+## Below there is general files and directories view: 
 
 ```
 gulp-monster/
